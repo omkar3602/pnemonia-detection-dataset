@@ -1,1 +1,1 @@
-# pnemonia-detection-dataset
+# pneumonia-detection-dataset
